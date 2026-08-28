@@ -20,17 +20,17 @@ The project contains three scenes featuring different vehicles, with buttons use
 
 ## 📸 Output
 
-### Scene 1 – Motorcycle
+### 🏍️ Scene 1 – Motorcycle
 
-The first scene displays a motorcycle with a button to switch to the next scene.
+![Scene 1 - Motorcycle](1.jpeg)
 
-### Scene 2 – Car
+### 🚗 Scene 2 – Car
 
-The second scene displays a car with a button to switch to the truck scene.
+![Scene 2 - Car](2.jpeg)
 
-### Scene 3 – Truck
+### 🚚 Scene 3 – Truck
 
-The third scene displays a truck with a button to return to the motorcycle scene.
+![Scene 3 - Truck](3.jpeg)
 
 ## 🚀 How to Run
 
