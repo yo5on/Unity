@@ -9,11 +9,9 @@
 
 ---
 
-A simple Unity project demonstrating scene switching using C#.
+<div align="center"><samp>A simple Unity project demonstrating scene switching using C#. It contains three scenes featuring different vehicles, with buttons used to switch between scenes.</samp></div>
 
-The project contains three scenes featuring different vehicles, with buttons used to switch between scenes.
-
-## Features
+<h2 align="center"><samp><b>Features</b></samp></h2>
 
 - Scene switching using C#
 - Motorcycle scene
@@ -21,33 +19,33 @@ The project contains three scenes featuring different vehicles, with buttons use
 - Truck scene
 - Simple UI buttons for navigation
 
-## Technologies
+<h2 align="center"><samp><b>Technologies</b></samp></h2>
 
 - Unity 6.5.1f1 (`6000.5.1f1`), as recorded in `ProjectSettings/ProjectVersion.txt`
 - C#
 - Unity Scene Management
 
-## Output
+<h2 align="center"><samp><b>Output</b></samp></h2>
 
-### Scene 1 — Motorcycle
+<h3 align="center"><samp><b>Scene 1 — Motorcycle</b></samp></h3>
 
 The first scene displays a motorcycle with a button to switch to the next scene.
 
 ![Scene 1 - Motorcycle](screenshots/1.jpeg)
 
-### Scene 2 — Car
+<h3 align="center"><samp><b>Scene 2 — Car</b></samp></h3>
 
 The second scene displays a car with a button to switch to the truck scene.
 
 ![Scene 2 - Car](screenshots/2.jpeg)
 
-### Scene 3 — Truck
+<h3 align="center"><samp><b>Scene 3 — Truck</b></samp></h3>
 
 The third scene displays a truck with a button to return to the motorcycle scene.
 
 ![Scene 3 - Truck](screenshots/3.jpeg)
 
-## How to Run
+<h2 align="center"><samp><b>How to Run</b></samp></h2>
 
 1. Clone this repository.
 2. Open Unity Hub.
@@ -56,7 +54,7 @@ The third scene displays a truck with a button to return to the motorcycle scene
 5. Press Play.
 6. Use the buttons to switch between scenes.
 
-## Project Structure
+<h2 align="center"><samp><b>Project Structure</b></samp></h2>
 
 ```text
 Assets/           Game assets and C# scripts
@@ -64,7 +62,12 @@ Packages/         Unity package configuration
 ProjectSettings/  Unity project settings
 ```
 
-## Author
+<h2 align="center"><samp><b>Author</b></samp></h2>
 
-**Yoson**  
-GitHub: https://github.com/yo5on
+<div align="center">
+
+<samp><strong>Yoson</strong> · software, AI/ML and interactive projects</samp>
+
+<samp><a href="https://github.com/yo5on">github.com/yo5on</a> · <a href="https://www.linkedin.com/in/yo5on">LinkedIn</a></samp>
+
+</div>
