@@ -3,7 +3,7 @@
 
 <samp>unity · c# · scene management · ui</samp>
 
-**[Repository](https://github.com/yo5on/Unity)**
+<samp>**[Repository](https://github.com/yo5on/Unity)**</samp>
 
 </div>
 
@@ -29,19 +29,19 @@
 
 <h3 align="center"><samp><b>Scene 1 — Motorcycle</b></samp></h3>
 
-The first scene displays a motorcycle with a button to switch to the next scene.
+<samp>The first scene displays a motorcycle with a button to switch to the next scene.</samp>
 
 ![Scene 1 - Motorcycle](screenshots/1.jpeg)
 
 <h3 align="center"><samp><b>Scene 2 — Car</b></samp></h3>
 
-The second scene displays a car with a button to switch to the truck scene.
+<samp>The second scene displays a car with a button to switch to the truck scene.</samp>
 
 ![Scene 2 - Car](screenshots/2.jpeg)
 
 <h3 align="center"><samp><b>Scene 3 — Truck</b></samp></h3>
 
-The third scene displays a truck with a button to return to the motorcycle scene.
+<samp>The third scene displays a truck with a button to return to the motorcycle scene.</samp>
 
 ![Scene 3 - Truck](screenshots/3.jpeg)
 
