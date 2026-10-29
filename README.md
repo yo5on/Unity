@@ -23,7 +23,7 @@ The project contains three scenes featuring different vehicles, with buttons use
 
 ## Technologies
 
-- Unity 6
+- Unity 6.5.1f1 (`6000.5.1f1`), as recorded in `ProjectSettings/ProjectVersion.txt`
 - C#
 - Unity Scene Management
 
