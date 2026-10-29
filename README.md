@@ -52,7 +52,7 @@ The third scene displays a truck with a button to return to the motorcycle scene
 1. Clone this repository.
 2. Open Unity Hub.
 3. Add or open this project.
-4. Open the required scene from the `Assets` folder.
+4. Open `Assets/s1.unity` for the motorcycle scene, `Assets/s2.unity` for the car scene, or `Assets/s3.unity` for the truck scene.
 5. Press Play.
 6. Use the buttons to switch between scenes.
 
