@@ -11,7 +11,9 @@
 
 <div align="center"><samp>A simple Unity project demonstrating scene switching using C#. It contains three scenes featuring different vehicles, with buttons used to switch between scenes.</samp></div>
 
-<h2 align="center"><samp><b>Features</b></samp></h2>
+---
+
+<div align="center"><samp><b>Features</b></samp></div>
 
 - Scene switching using C#
 - Motorcycle scene
@@ -19,33 +21,39 @@
 - Truck scene
 - Simple UI buttons for navigation
 
-<h2 align="center"><samp><b>Technologies</b></samp></h2>
+---
+
+<div align="center"><samp><b>Technologies</b></samp></div>
 
 - Unity 6.5.1f1 (`6000.5.1f1`), as recorded in `ProjectSettings/ProjectVersion.txt`
 - C#
 - Unity Scene Management
 
-<h2 align="center"><samp><b>Output</b></samp></h2>
+---
 
-<h3 align="center"><samp><b>Scene 1 — Motorcycle</b></samp></h3>
+<div align="center"><samp><b>Output</b></samp></div>
+
+<div align="center"><samp><b>Scene 1 — Motorcycle</b></samp></div>
 
 <samp>The first scene displays a motorcycle with a button to switch to the next scene.</samp>
 
 ![Scene 1 - Motorcycle](screenshots/1.jpeg)
 
-<h3 align="center"><samp><b>Scene 2 — Car</b></samp></h3>
+<div align="center"><samp><b>Scene 2 — Car</b></samp></div>
 
 <samp>The second scene displays a car with a button to switch to the truck scene.</samp>
 
 ![Scene 2 - Car](screenshots/2.jpeg)
 
-<h3 align="center"><samp><b>Scene 3 — Truck</b></samp></h3>
+<div align="center"><samp><b>Scene 3 — Truck</b></samp></div>
 
 <samp>The third scene displays a truck with a button to return to the motorcycle scene.</samp>
 
 ![Scene 3 - Truck](screenshots/3.jpeg)
 
-<h2 align="center"><samp><b>How to Run</b></samp></h2>
+---
+
+<div align="center"><samp><b>How to Run</b></samp></div>
 
 1. Clone this repository.
 2. Open Unity Hub.
@@ -54,7 +62,9 @@
 5. Press Play.
 6. Use the buttons to switch between scenes.
 
-<h2 align="center"><samp><b>Project Structure</b></samp></h2>
+---
+
+<div align="center"><samp><b>Project Structure</b></samp></div>
 
 ```text
 Assets/           Game assets and C# scripts
@@ -62,7 +72,9 @@ Packages/         Unity package configuration
 ProjectSettings/  Unity project settings
 ```
 
-<h2 align="center"><samp><b>Author</b></samp></h2>
+---
+
+<div align="center"><samp><b>Author</b></samp></div>
 
 <div align="center">
 
